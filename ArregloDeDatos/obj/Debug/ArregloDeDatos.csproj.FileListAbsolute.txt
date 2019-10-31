@@ -1,0 +1,7 @@
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\bin\Debug\ArregloDeDatos.exe.config
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\bin\Debug\ArregloDeDatos.exe
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\bin\Debug\ArregloDeDatos.pdb
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\obj\Debug\ArregloDeDatos.csprojAssemblyReference.cache
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\obj\Debug\ArregloDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\obj\Debug\ArregloDeDatos.exe
+C:\Users\BP794JN\source\repos\ArregloDeDatos\ArregloDeDatos\obj\Debug\ArregloDeDatos.pdb
